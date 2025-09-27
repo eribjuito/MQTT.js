@@ -1,3 +1,4 @@
+
 Usage: mqtt publish [opts] topic [message]
 
 Available options:
@@ -24,3 +25,4 @@ Available options:
   --will-qos 0/1/2      the will qos
   --will-retain         send a will retained message 
   -H/--help             show this
+
